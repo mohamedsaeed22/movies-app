@@ -1,6 +1,10 @@
-body {
+* {
   margin: 0;
+  padding: 0;
 }
+
+
+
 .color-body {
   background-color: white;
   height: 100vh;
@@ -10,7 +14,6 @@ body {
   width: 1440px;
   background-color: #b45b35;
 }
-
 .logo {
   height: 72px;
   width: 78px;
